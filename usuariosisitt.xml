@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<cuentas>
+   <cuenta id="123">
+      <propietario>Abel Abraham Estrella Ojeda</propietario>
+      <informacion>
+         <servicio>Correo - GMAIL</servicio>
+         <usuario>abel.estrella@ittizimin.edu.mx</usuario>
+         <contrasena>AlgoMuyDificil</contrasena>
+         <direccion>gmail.com</direccion>
+      </informacion>
+      <informacion>
+         <servicio>Correo - OFFICE</servicio>
+         <usuario>abel.eo@tizimin.tecnm.mx</usuario>
+         <contrasena>MuchoMasDificil</contrasena>
+         <direccion>office.com</direccion>
+      </informacion>
+      <informacion>
+         <servicio>Plataforma - MOODLE</servicio>
+         <usuario>abel.estrella</usuario>
+         <contrasena>SuperFacil</contrasena>
+         <direccion>moodle.tizimin.tecnm.mx</direccion>
+      </informacion>
+      <informacion>
+         <servicio>Plataforma - SII</servicio>
+         <usuario>mimatricula</usuario>
+         <contrasena>NiTanto</contrasena>
+         <direccion>sii.tizimnin.tecnm.mx</direccion>
+      </informacion>
+   </cuenta>
+</cuentas>
